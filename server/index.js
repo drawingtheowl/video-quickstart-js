@@ -25,7 +25,8 @@ var app = express();
   'codecpreferences',
   'localvideofilter',
   'localvideosnapshot',
-  'mediadevices'
+  'mediadevices',
+  'responsive'
 ].forEach(function(example) {
   var examplePath = path.join(__dirname, `../examples/${example}/public`);
   app.use(`/${example}`, express.static(examplePath));
