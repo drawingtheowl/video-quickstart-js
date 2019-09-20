@@ -1,3 +1,17 @@
+**What's in this fork?**
+
+
+This fork adds a new example called `responsive` (see branch `example/responsive`). This example implement a mobile first / responsive UI with mute button and switch camera functionalities.
+
+Mobile: 
+
+![screenshot_20190920-130122_2](https://user-images.githubusercontent.com/54728384/65326641-db7eff80-dba9-11e9-92b1-78dd3e01133f.jpg)
+
+Desktop: 
+
+![desktop_screenshot](https://user-images.githubusercontent.com/54728384/65326604-c73b0280-dba9-11e9-8cc8-d91b814fdb8a.jpg)
+
+
 **IMPORTANT:** Please upgrade to the latest version of twilio-video.js to avoid upcoming breaking changes in Firefox 68.
 See [this advisory](https://support.twilio.com/hc/en-us/articles/360024434554-Twilio-Video-JavaScript-SDK-Breaking-Changes-in-Firefox-68-July-9-2019-) for details.
 
