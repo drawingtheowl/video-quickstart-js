@@ -1,7 +1,7 @@
 **What's in this fork?**
 
 
-This fork adds a new example called `responsive` (see branch `example/responsive`). This example implement a mobile first / responsive UI with mute button and switch camera functionalities.
+This fork adds a new example called `responsive` (see branch `example/responsive`). This example implement a mobile first / responsive UI with mute button and switch camera functionalities. A glitch demo is available [here](https://twilio-video-js-responsive.glitch.me/).
 
 Mobile: 
 
